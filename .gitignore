@@ -1,0 +1,15 @@
+# Virtual environment
+myenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Scraped data (you'll generate these when you run your spider)
+*.json
+*.csv
+*.xml
+
+# IDE
+.vscode/
+.idea/
