@@ -1,0 +1,9 @@
+2026-02-21 22:57:01 [py.warnings] WARNING: C:\Users\bensa\OneDrive\Desktop\Projects\ScrapyWebScraper\myenv\Lib\site-packages\scrapy\pipelines\__init__.py:41: ScrapyDeprecationWarning: MongoPipeline.open_spider() requires a spider argument, this is deprecated and the argument will not be passed in future Scrapy versions. If you need to access the spider instance you can save the crawler instance passed to from_crawler() and use its spider attribute.
+  self._check_mw_method_spider_arg(pipe.open_spider)
+
+2026-02-21 22:57:01 [py.warnings] WARNING: C:\Users\bensa\OneDrive\Desktop\Projects\ScrapyWebScraper\myenv\Lib\site-packages\scrapy\pipelines\__init__.py:44: ScrapyDeprecationWarning: MongoPipeline.close_spider() requires a spider argument, this is deprecated and the argument will not be passed in future Scrapy versions. If you need to access the spider instance you can save the crawler instance passed to from_crawler() and use its spider attribute.
+  self._check_mw_method_spider_arg(pipe.close_spider)
+
+2026-02-21 22:57:01 [py.warnings] WARNING: C:\Users\bensa\OneDrive\Desktop\Projects\ScrapyWebScraper\myenv\Lib\site-packages\scrapy\pipelines\__init__.py:47: ScrapyDeprecationWarning: MongoPipeline.process_item() requires a spider argument, this is deprecated and the argument will not be passed in future Scrapy versions. If you need to access the spider instance you can save the crawler instance passed to from_crawler() and use its spider attribute.
+  self._check_mw_method_spider_arg(pipe.process_item)
+
