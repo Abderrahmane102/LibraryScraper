@@ -39,8 +39,8 @@ ScrapyWebScraper/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Abderrahmane102/ScrapyWebScraper.git
-   cd ScrapyWebScraper
+   git clone https://github.com/Abderrahmane102/LibraryScraper.git
+   cd LibraryScraper
    ```
 
 2. **Create and activate a virtual environment** (recommended)
